@@ -7,20 +7,23 @@ body {
     background: #ccc;
 }
 
-.title {
+.name {
     margin: 30px;
-    
-    
+    font-size: 30px;
 }
 
 p {
-    font-size: 30px;
-    line-height: 10px;
+    font-size: 2rem;
+    line-height: 2rem;
     
 }
 
+.linkedin {
+    font-size: 2rem;
+}
+
 h3 {
-    font-size: 30px;
+    font-size: 2.2rem;
     background-color: #888;
     border: 5px solid #000;
 }
